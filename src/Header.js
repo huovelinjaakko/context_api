@@ -4,7 +4,7 @@ import HeaderButton from './HeaderButton';
 function Header() {
   return (
     <div>
-      <HeaderButton />
+        <HeaderButton />
     </div>
   );
 }
